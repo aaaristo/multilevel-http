@@ -1,6 +1,6 @@
 {
-  "name": "multilevel-http",
-  "version": "0.0.2",
+  "name": "multilevel-http-temp",
+  "version": "0.0.0",
   "description": "Access a leveldb instance from multiple processes via HTTP",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/juliangruber/multilevel-http.git"
+    "url": "git://github.com/aaaristo/multilevel-http.git"
   },
   "keywords": [
     "leveldb",
